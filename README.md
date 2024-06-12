@@ -9,6 +9,8 @@ Wikipedia- [List of largest companies in the US by revenue](https://en.wikipedia
 - Beautiful Soup
 
 ### Results
+#### CSV [file link](https://github.com/julielsa/Python-scraping-data-web/blob/main/Companies.csv)
 Dataframe image
+![Dataframe image](https://github.com/julielsa/Python-scraping-data-web/blob/main/Companies%20df.png)
 
-#### CSV [file link](https://github.com/julielsa/Python-scraping-data-web/blob/main/Companies.csv)``
+
